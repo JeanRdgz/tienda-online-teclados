@@ -46,10 +46,6 @@ Puedes probarlo siguiendo las instrucciones de instalación.
 ### 👤 Login
 ![Admin](images/usuario.jfif)
 
-## 📌 Estado
-
-🚧 En desarrollo / mejoras continuas
-
 ## ⚙️ Instalación y uso
 
 1. Clonar el repositorio: git clone https://github.com/JeanRdgz/tienda-online-teclados.git
@@ -68,7 +64,11 @@ Gestión de bases de datos con MySQL
 Creación de interfaces web modernas
 Implementación de arquitectura MVC
 
+## 📌 Estado
+
+🚧 En desarrollo / mejoras continuas
 
 ## 📫 Contacto
 GitHub: https://github.com/JeanRdgz
+
 LinkedIn: https://www.linkedin.com/in/jean-rodriguez-perez
