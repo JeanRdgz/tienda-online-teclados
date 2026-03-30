@@ -20,13 +20,11 @@ Aplicación web desarrollada con PHP, MySQL y JavaScript.
 3. Configurar conexión en el proyecto
 4. Ejecutar en entorno local (XAMPP)
 
----
 
 ## 🎯 Objetivo del proyecto
 
 Este proyecto fue desarrollado como parte de mi formación en Desarrollo de Aplicaciones Web, con el objetivo de aplicar conocimientos en backend, frontend y bases de datos en una aplicación real.
 
----
 
 ## 📌 Estado
 
