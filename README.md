@@ -1,6 +1,6 @@
 # 🛒 Tienda Online de Teclados
 
-Aplicación web desarrollada con PHP, MySQL y JavaScript.
+Aplicación web completa desarrollada como proyecto final de DAW, enfocada en la venta y personalización de teclados mecánicos, incluye sistema de usuarios, gestión de productos y carrito de compra.
 
 ## 🚀 Funcionalidades
 - CRUD de productos
