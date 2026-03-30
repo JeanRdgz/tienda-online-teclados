@@ -25,6 +25,16 @@ Aplicación web desarrollada con PHP, MySQL y JavaScript.
 
 Este proyecto fue desarrollado como parte de mi formación en Desarrollo de Aplicaciones Web, con el objetivo de aplicar conocimientos en backend, frontend y bases de datos en una aplicación real.
 
+## 📸 Capturas del proyecto
+
+### 🏠 Página principal
+![Home](images/personalizador.jfif)
+
+### 🛒 Productos
+![Productos](images/productos.jfif)
+
+### 👤 Login
+![Admin](images/usuario.jfif)
 
 ## 📌 Estado
 
