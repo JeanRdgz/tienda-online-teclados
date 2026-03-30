@@ -50,10 +50,11 @@ Puedes probarlo siguiendo las instrucciones de instalación.
 
 1. Clonar el repositorio: git clone https://github.com/JeanRdgz/tienda-online-teclados.git
 2. Mover el proyecto a la carpeta htdocs de XAMPP
-3. Importar la base de datos en MySQL
-4. Configurar la conexión a la base de datos en el proyecto
-5. Iniciar Apache y MySQL desde XAMPP
-6. Acceder desde el navegador: http://localhost/tienda-online-teclados
+3. Acceder a la carpeta del proyecto: cd tienda-online-teclados
+4. El proyecto se encuentra dentro de la carpeta Switchs, por lo que debes usar esa ruta en el navegador: http://localhost/tienda-online-teclados/Switchs
+5. Importar la base de datos en MySQL (phpMyAdmin)
+6. Configurar la conexión a la base de datos dentro del proyecto (archivo de configuración PHP)
+7. Iniciar Apache y MySQL desde XAMPP
 
 ## 🎯 Objetivo del proyecto
 
